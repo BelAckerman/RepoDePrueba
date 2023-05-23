@@ -1,0 +1,18 @@
+body h1{
+
+    background-color: violet;
+}
+
+.textoAlineado{
+    text-align: center;
+}
+
+#fondoRosa {
+    background-color: pink;
+}
+
+.bordePunteado{
+    border: 5px;
+    border-style: dotted;
+    border-color: black;
+}
